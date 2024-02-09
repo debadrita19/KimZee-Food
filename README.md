@@ -7,3 +7,5 @@ KimzeeFood is a meal ordering platform that provides monthly meal subscription p
 ![image](https://github.com/debadrita19/KimZee-Food/assets/55732617/9a45816e-3ece-4f04-bed1-2c32f266d67e)
 ![image](https://github.com/debadrita19/KimZee-Food/assets/55732617/f416a6b1-55a8-4f17-9445-110e998cca29)
 ![image](https://github.com/debadrita19/KimZee-Food/assets/55732617/5c2928fe-689d-4a1e-9f70-809b0251fa7a)
+
+images taken from https://www.freepik.com
