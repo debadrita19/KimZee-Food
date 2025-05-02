@@ -1,4 +1,4 @@
-# KimZee-Food
+# KimZee-Food - https://kimzee-food.netlify.app/
 KimzeeFood is a meal ordering platform that provides monthly meal subscription plans unlike instant food ordering platforms our product provides customiable monthly meal subscription plans curated according to the users need.
 ![image](https://github.com/debadrita19/KimZee-Food/assets/55732617/eb55d23f-96a1-43e1-87f8-8a5efd8fbb93)
 ![image](https://github.com/debadrita19/KimZee-Food/assets/55732617/3d6f5d23-c9c9-42fa-b3e3-c19b3232676b)
